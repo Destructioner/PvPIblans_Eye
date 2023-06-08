@@ -4,7 +4,7 @@
 #endif
 
 
-	
+
 class database_players {
 	private:
 		std::ifstream DB_File;

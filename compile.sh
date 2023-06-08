@@ -1,0 +1,1 @@
+g++ -static-libgcc -static-libstdc++ -O2 -o guild_eye guild_eye.cpp -lcurl -ldl -lssl -lcrypto -lz -lnghttp2 -lnghttp3 -ldl -lm
